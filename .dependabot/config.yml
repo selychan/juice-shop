@@ -30,6 +30,5 @@ update_configs:
     default_labels:
       - "dependencies"
   - package_manager: "npm"
-    directory: "/"
+    directory: "/frontend"
     update_schedule: "live"
-    target_branch: "develop"
