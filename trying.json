@@ -1,0 +1,8 @@
+{
+  "name": "vulnerable-project",
+  "version": "1.0.0",
+  "description": "A project with known vulnerabilities to test Dependabot and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
